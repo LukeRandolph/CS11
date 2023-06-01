@@ -1,0 +1,89 @@
+PLAYER 1's TURN:
+Your hand:
+/----\  /----\  /----\  /----\  /----\
+|    |  |    |  |    |  |    |  |    |
+|  7 |  |  8 |  |  9 |  | 10 |  |  6 |
+|    |  |    |  |    |  |    |  |    |
+\----/  \----/  \----/  \----/  \----/
+   0       1       2       3       4
+
+Discard pile:
+/----\
+|    |
+| 11 |
+|    |
+\----/
+
+Would you like to
+ 1. take the top discard?
+ 2. draw from the deck?
+Enter the number for your choice: 
+You drew:
+/----\
+|    |
+| 12 |
+|    |
+\----/
+
+Would you like to keep this card? (y/n) 
+/----\  /----\  /----\  /----\  /----\
+|    |  |    |  |    |  |    |  |    |
+|  7 |  |  8 |  |  9 |  | 10 |  |  6 |
+|    |  |    |  |    |  |    |  |    |
+\----/  \----/  \----/  \----/  \----/
+   0       1       2       3       4
+
+Enter the index of the card you'd like to discard: 
+Your new hand:
+/----\  /----\  /----\  /----\  /----\
+|    |  |    |  |    |  |    |  |    |
+| 12 |  |  8 |  |  9 |  | 10 |  |  6 |
+|    |  |    |  |    |  |    |  |    |
+\----/  \----/  \----/  \----/  \----/
+   0       1       2       3       4
+
+PLAYER 2's TURN:
+Your hand:
+/----\  /----\  /----\  /----\  /----\
+|    |  |    |  |    |  |    |  |    |
+|  2 |  |  3 |  |  4 |  |  5 |  |  1 |
+|    |  |    |  |    |  |    |  |    |
+\----/  \----/  \----/  \----/  \----/
+   0       1       2       3       4
+
+Discard pile:
+/----\
+|    |
+|  7 |
+|    |
+\----/
+
+Would you like to
+ 1. take the top discard?
+ 2. draw from the deck?
+Enter the number for your choice: 
+You drew:
+/----\
+|    |
+| 13 |
+|    |
+\----/
+
+Would you like to keep this card? (y/n) 
+/----\  /----\  /----\  /----\  /----\
+|    |  |    |  |    |  |    |  |    |
+|  2 |  |  3 |  |  4 |  |  5 |  |  1 |
+|    |  |    |  |    |  |    |  |    |
+\----/  \----/  \----/  \----/  \----/
+   0       1       2       3       4
+
+Enter the index of the card you'd like to discard: 
+Your new hand:
+/----\  /----\  /----\  /----\  /----\
+|    |  |    |  |    |  |    |  |    |
+|  2 |  |  3 |  |  4 |  |  5 |  | 13 |
+|    |  |    |  |    |  |    |  |    |
+\----/  \----/  \----/  \----/  \----/
+   0       1       2       3       4
+
+CONGRATULATIONS PLAYER 2! YOU WIN!!

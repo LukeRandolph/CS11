@@ -1,0 +1,111 @@
+PLAYER 1's TURN:
+Your hand:
+/----\  /----\  /----\  /----\  /----\
+|    |  |    |  |    |  |    |  |    |
+|  7 |  |  8 |  |  9 |  | 10 |  |  6 |
+|    |  |    |  |    |  |    |  |    |
+\----/  \----/  \----/  \----/  \----/
+   0       1       2       3       4
+
+Discard pile:
+/----\
+|    |
+| 11 |
+|    |
+\----/
+
+Would you like to
+ 1. take the top discard?
+ 2. draw from the deck?
+Enter the number for your choice: 
+You drew:
+/----\
+|    |
+| 12 |
+|    |
+\----/
+
+Would you like to keep this card? (y/n) 
+
+Your new hand:
+/----\  /----\  /----\  /----\  /----\
+|    |  |    |  |    |  |    |  |    |
+|  7 |  |  8 |  |  9 |  | 10 |  |  6 |
+|    |  |    |  |    |  |    |  |    |
+\----/  \----/  \----/  \----/  \----/
+   0       1       2       3       4
+
+PLAYER 2's TURN:
+Your hand:
+/----\  /----\  /----\  /----\  /----\
+|    |  |    |  |    |  |    |  |    |
+|  2 |  |  3 |  |  4 |  |  5 |  |  1 |
+|    |  |    |  |    |  |    |  |    |
+\----/  \----/  \----/  \----/  \----/
+   0       1       2       3       4
+
+Discard pile:
+/----\
+|    |
+| 12 |
+|    |
+\----/
+
+Would you like to
+ 1. take the top discard?
+ 2. draw from the deck?
+Enter the number for your choice: 
+You drew:
+/----\
+|    |
+| 13 |
+|    |
+\----/
+
+Would you like to keep this card? (y/n) 
+
+Your new hand:
+/----\  /----\  /----\  /----\  /----\
+|    |  |    |  |    |  |    |  |    |
+|  2 |  |  3 |  |  4 |  |  5 |  |  1 |
+|    |  |    |  |    |  |    |  |    |
+\----/  \----/  \----/  \----/  \----/
+   0       1       2       3       4
+
+PLAYER 1's TURN:
+Your hand:
+/----\  /----\  /----\  /----\  /----\
+|    |  |    |  |    |  |    |  |    |
+|  7 |  |  8 |  |  9 |  | 10 |  |  6 |
+|    |  |    |  |    |  |    |  |    |
+\----/  \----/  \----/  \----/  \----/
+   0       1       2       3       4
+
+Discard pile:
+/----\
+|    |
+| 13 |
+|    |
+\----/
+
+Would you like to
+ 1. take the top discard?
+ 2. draw from the deck?
+Enter the number for your choice: 
+/----\  /----\  /----\  /----\  /----\
+|    |  |    |  |    |  |    |  |    |
+|  7 |  |  8 |  |  9 |  | 10 |  |  6 |
+|    |  |    |  |    |  |    |  |    |
+\----/  \----/  \----/  \----/  \----/
+   0       1       2       3       4
+
+Enter the index of the card you'd like to discard: 
+Your new hand:
+/----\  /----\  /----\  /----\  /----\
+|    |  |    |  |    |  |    |  |    |
+|  7 |  |  8 |  |  9 |  | 10 |  | 13 |
+|    |  |    |  |    |  |    |  |    |
+\----/  \----/  \----/  \----/  \----/
+   0       1       2       3       4
+
+CONGRATULATIONS PLAYER 1! YOU WIN!!

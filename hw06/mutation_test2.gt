@@ -1,0 +1,52 @@
+Enter a query: == AGAA ==
+Mutations:
+None
+== AGAC ==
+Mutations:
+TGAC - Cost: 1
+AGAA - Cost: 4
+== AAAA ==
+Mutations:
+AGAA - Cost: 8
+TAAA - Cost: 5
+== AAAC ==
+Mutations:
+AAAA - Cost: 3
+AGAC - Cost: 10
+== TAAA ==
+Mutations:
+AAAA - Cost: 1
+== TAAC ==
+Mutations:
+AAAC - Cost: 7
+TGAC - Cost: 3
+TACC - Cost: 6
+== TGAC ==
+Mutations:
+TAAC - Cost: 5
+TGCC - Cost: 13
+== TACC ==
+Mutations:
+None
+== TTCC ==
+Mutations:
+TACC - Cost: 4
+== TGCC ==
+Mutations:
+TACC - Cost: 7
+AGCC - Cost: 8
+== AGCC ==
+Mutations:
+AGAC - Cost: 2
+
+Enter a query: AGAA cannot mutate into AAAA
+
+Enter a query: AGAA cannot mutate into AAAA
+
+Enter a query: TGCC can mutate into TACC
+
+Enter a query: TGCC can mutate into TACC with evolutionary cost 10
+
+Enter a query: TGCC can mutate into TACC but not with evolutionary cost 4
+
+Enter a query: 
