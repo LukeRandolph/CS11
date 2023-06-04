@@ -39,6 +39,7 @@ int main(){
         player1_turn = !player1_turn;
     }
     End_Of_Game(quit, board, player1_turn);
+    return 0;
 }
 
 void makeBoard(string *board){
